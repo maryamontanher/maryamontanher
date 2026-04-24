@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação (UTFPR) | Técnica em Desenvolvimento de S
 - C#
 - MySQL (banco de dados)
 - HTML, CSS e JavaScript
-- Em estudo: PYTHON
+- Em estudo: Python
 ---
 
 - LinkedIn: www.linkedin.com/in/maryamontanher
