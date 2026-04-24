@@ -11,7 +11,5 @@ Estudante de Sistemas de Informação (UTFPR) | Técnica em Desenvolvimento de S
 - Em estudo: PYTHON
 ---
 
-## 
 - LinkedIn: www.linkedin.com/in/maryamontanher
-
-⭐ Londrina - PR
+- Londrina - PR
