@@ -1,6 +1,6 @@
 # Olá, eu sou a Marya Eduarda!
 
-Estudante de Sistemas De Informação (UTFPR), Técnica em Desenvolvimento de Sistemas
+Estudante de Sistemas de Informação (UTFPR) | Técnica em Desenvolvimento de Sistemas
 
 ## Tecnologias e Ferramentas
 
